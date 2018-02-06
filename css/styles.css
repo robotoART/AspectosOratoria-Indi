@@ -49,9 +49,6 @@ header {
     padding-top: 16.5%;
 }
 
-#pic-head {
-}
-
 #list-left {
     width: 66.5%;
     height: 0;
@@ -61,13 +58,19 @@ header {
     background-size: 150.5% 104.5%;
     padding-bottom: 337.5%;
     padding-left: 66.5%;
-    display: inline-block;
+    display: inline;
 }
 
 #list-right {
     width: 33.5%;
-    height: auto;
-    display: inline-block;
+    height: 0;
+    background-image: url("../images/AspectosOratoria.png");
+    background-repeat: no-repeat;
+    background-position: 100% 107.5%;
+    background-size: 301% 104.5%;
+    padding-bottom: 337.5%;
+    padding-right: 33.5%;
+    display: inline;
 }
 
 #pic-left {
